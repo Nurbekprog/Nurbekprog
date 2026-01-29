@@ -1,109 +1,95 @@
-<div align="center">
-
-# Nurbek Yuldashev
-
-### `Frontend Developer • React & Next.js Specialist`
-
 ```
-Building elegant, performant web applications with modern JavaScript
-```
-
----
-
-</div>
-
-## `$ whoami`
-
-```typescript
-const nurbek = {
-  role: "Frontend Developer",
-  location: "Tashkent, Uzbekistan",
-  focus: "Building scalable React applications",
-  learning: ["Advanced TypeScript", "Web Performance"],
-  available: true
-};
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   Nurbek Yuldashev                                          ║
+║   ─────────────────                                          ║
+║   Frontend Developer                                         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-## `$ stack --list`
+<br>
 
-```bash
-# Languages
-├── JavaScript
-├── TypeScript
-├── HTML5
-└── CSS3
+### ◆ What I Do
 
-# Frameworks & Libraries
-├── React
-├── Next.js
-├── Redux
-└── React Query
+I craft **digital experiences** through code—specializing in React ecosystems,  
+building interfaces that feel natural, perform smoothly, and scale gracefully.
 
-# Styling
-├── Tailwind CSS
-├── Sass
-└── CSS Modules
+<br>
 
-# Tools
-├── Git
-├── VS Code
-└── Vercel
+### ◆ Current Focus
+
+```
+┌─ Building
+│  └─ Scalable React applications with modern architecture
+│
+├─ Learning  
+│  ├─ Advanced TypeScript patterns
+│  └─ Web performance optimization
+│
+└─ Exploring
+   └─ The intersection of design and development
 ```
 
-## `$ projects --featured`
+<br>
 
-```javascript
-// Project showcase
-const projects = [
-  {
-    name: "Project Alpha",
-    tech: ["React", "TypeScript", "Tailwind"],
-    description: "Enterprise-level dashboard application"
-  },
-  {
-    name: "Project Beta",
-    tech: ["Next.js", "Redux", "Sass"],
-    description: "E-commerce platform with SSR"
-  },
-  {
-    name: "Project Gamma",
-    tech: ["React", "React Query", "CSS Modules"],
-    description: "Real-time data visualization tool"
-  }
-];
+### ◆ Technologies
+
+**Primary Stack**  
+JavaScript · TypeScript · React · Next.js
+
+**Styling & Design**  
+Tailwind CSS · Sass · CSS-in-JS
+
+**Tools & Workflow**  
+Git · VS Code · Vercel · Figma
+
+<br>
+
+### ◆ Selected Work
+
+**[Project Name]**  
+> Description of what makes this project interesting and the problems it solves.  
+> `React` `TypeScript` `Tailwind CSS`
+
+**[Project Name]**  
+> Description of what makes this project interesting and the problems it solves.  
+> `Next.js` `Redux` `Sass`
+
+**[Project Name]**  
+> Description of what makes this project interesting and the problems it solves.  
+> `React` `Zustand` `Framer Motion`
+
+<br>
+
+### ◆ Philosophy
+
+> *"Code is read much more often than it is written."*
+
+I believe in writing code that humans understand first, computers second.  
+Every component should have a purpose. Every line should tell a story.
+
+<br>
+
+### ◆ Let's Connect
+
+**Email** — [nurbekdeveloper@gmail.com](mailto:nurbekdeveloper@gmail.com)  
+**LinkedIn** — [nurbek-yuldashev](https://www.linkedin.com/in/nurbek-yuldashev/)  
+**Telegram** — [@nnurdev](https://t.me/nnurdev)
+
+<br>
+
 ```
-
-## `$ philosophy --show`
-
-```javascript
-// Development approach
-{
-  code: "Clean, readable, and maintainable",
-  design: "User-first, accessible, responsive",
-  testing: "Write tests, not too many, mostly integration",
-  learning: "Continuous and deliberate",
-  collaboration: "Clear communication, code reviews, pair programming"
-}
+┌────────────────────────────────────────────────────────────┐
+│  Currently open to interesting projects                    │
+│  and collaboration opportunities                           │
+└────────────────────────────────────────────────────────────┘
 ```
-
-## `$ contact --info`
-
-```bash
-# Reach out for collaboration
-├── Email:    nurbekdeveloper@gmail.com
-├── LinkedIn: linkedin.com/in/nurbek-yuldashev
-├── Telegram: @nnurdev
-└── Status:   Open to opportunities
-```
-
----
 
 <div align="center">
 
-```
-⚡ "First, solve the problem. Then, write the code." ⚡
-```
+─────────
 
-`Nurbek Yuldashev © 2025`
+*Crafted with care in Tashkent* ✦ *2025*
 
 </div>
