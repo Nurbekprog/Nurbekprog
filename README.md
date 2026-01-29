@@ -23,11 +23,11 @@ I learned programming in Najot education using real projects. To learn more abou
 
 ## 🛠️ Languages-Frameworks-Tools 🛠️
 
-<img src="https://skillicons.dev/icons?i=nodejs,js,ts,react,nextjs,express,firebase,mongodb,redux" alt="skills" />
+<img src="https://skillicons.dev/icons?i=nodejs,js,ts,react,nextjs,redux" alt="skills" />
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,materialui,figma,git,github,linux" alt="skills" />
 <br/>
-<img src="https://skillicons.dev/icons?i=atom,electron,vite" alt="skills" />
+<img src="https://skillicons.dev/icons?i=vite" alt="skills" />
 
 </div>
 
