@@ -5,15 +5,6 @@
 ⚡ I am a Frontend developer, I develop websites, online stores, SRM systems and applications.  
 I learned programming in Najot education using real projects. To learn more about me, visit [nurbekdev.uz](#) !
 
-<a href="mailto:nurbekdeveloper@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/nurbek-yuldashev/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://t.me/nnurdev">
-  <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
 
 </div>
 
