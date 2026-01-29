@@ -13,24 +13,31 @@ I learned programming in Najot education using real projects. To learn more abou
   <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
 </a>
 </div>
+
 ---
+
 <div align="center">
   
 ## 🛠️ Languages-Frameworks-Tools 🛠️
+
 <img src="https://skillicons.dev/icons?i=nodejs,js,ts,react,nextjs,redux" alt="skills" />
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,materialui,figma,git,github,linux" alt="skills" />
 <br/>
 <img src="https://skillicons.dev/icons?i=vite" alt="skills" />
 </div>
+
 ---
+
 <div align="center">
   
 ## 💼 What I'm Working On
+
 - 🔥 Building modern web applications with React and Next.js
 - 📱 Developing responsive e-commerce platforms
 - 🎨 Creating pixel-perfect UI components with Tailwind CSS
 - 📚 Learning advanced TypeScript patterns and performance optimization
+  
 ---
 
 ## 🐍 GitHub Snake 🐍
@@ -38,6 +45,7 @@ I learned programming in Najot education using real projects. To learn more abou
 ![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
+
 ---
 
 ## 📬 Get In Touch
