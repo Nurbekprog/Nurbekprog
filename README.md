@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nurbek+Yuldashev;Frontend+Developer;React+%26+Next.js+Specialist" alt="Typing SVG" />
 
 ⚡ I am a Frontend developer. I can create landing pages, e-commerce, admin panels, crm systems and applications for business people. 
-To learn more about me, visit this page [https://nurdev.vercel.app](#) !
+To learn more about me, visit this page [nurdev.vercel.app](#) !
 
 
 </div>
