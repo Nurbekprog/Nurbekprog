@@ -1,97 +1,62 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&width=600&lines=initializing+nurdev.js...;loading+stack...;ready+to+build+%E2%9C%93" alt="init" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nurbek+Yuldashev;Frontend+Developer;React+%26+Next.js+Specialist" alt="Typing SVG" />
 
-```
-███╗   ██╗██╗   ██╗██████╗ ██████╗ ███████╗██╗   ██╗
-████╗  ██║██║   ██║██╔══██╗██╔══██╗██╔════╝██║   ██║
-██╔██╗ ██║██║   ██║██████╔╝██║  ██║█████╗  ██║   ██║
-██║╚██╗██║██║   ██║██╔══██╗██║  ██║██╔══╝  ╚██╗ ██╔╝
-██║ ╚████║╚██████╔╝██║  ██║██████╔╝███████╗ ╚████╔╝
-╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝  ╚═══╝
-```
+⚡ I am a Frontend developer. I can create landing pages, e-commerce, admin panels, crm systems and applications for business people. 
+To learn more about me, visit this page [https://nurdev.vercel.app](#) !
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%87%BA%F0%9F%87%BF;Next.js+%7C+TypeScript+%7C+Three.js;GSAP+animations+%7C+UI+craftsman;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 </div>
 
 ---
 
-```js
-const nurdev = {
-  name:     "Nurbek Yuldashev",
-  alias:    "nurdev 🦇",
-  location: "Tashkent, Uzbekistan 🇺🇿",
-  website:  "nurdev.uz",
-
-  stack: {
-    frontend:  ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    animation: ["GSAP", "Three.js", "Anime.js"],
-    backend:   ["Node.js", "Express", "PostgreSQL"],
-    tools:     ["Git", "Docker", "Figma", "Vite"],
-  },
-
-  currentlyBuilding: "nurdev-portfolio v2 → nurdev.uz",
-  learning:          ["Three.js", "C/C++ @ School 21"],
-  openTo:            "collaboration & freelance",
-}
-```
-
----
-
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## 🛠️ Languages-Frameworks-Tools 🛠️
 
-<img src="https://skillicons.dev/icons?i=nodejs,js,ts,react,nextjs,redux,cpp,c" />
+<img src="https://skillicons.dev/icons?i=nodejs,js,ts,react,nextjs,redux,cpp,c" alt="skills" />
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,materialui,figma,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,materialui,figma,git,github,linux" alt="skills" />
 <br/>
-<img src="https://skillicons.dev/icons?i=vite,postgres,docker" />
+<img src="https://skillicons.dev/icons?i=vite" alt="skills" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-| Project | Stack | Live |
-|---------|-------|------|
-| **[myportfolio](https://github.com/Nurbekprog/myportfolio)** — Personal portfolio with 3D & animations | `Next.js` `Three.js` `GSAP` `TS` | [nurdev.vercel.app](https://nurdev.vercel.app) |
-| **[n-academy](https://github.com/Nurbekprog/n-academy)** — Education platform UI | `Next.js` `TypeScript` | [n-academynn.vercel.app](https://n-academynn.vercel.app) |
-| **[cryptofolio](https://github.com/Nurbekprog/cryptofolio-exam-nurdev)** — Crypto portfolio tracker | `React` `JavaScript` | [cryptofolio-exam-nurdev.vercel.app](https://cryptofolio-exam-nurdev.vercel.app) |
-| **[xon-ai](https://github.com/Nurbekprog/xon-ai)** — AI chat interface | `JavaScript` | [xonai.vercel.app](https://xonai.vercel.app) |
+## 💼 What I'm Working On
+
+</div>
+
+- 🔥 Building modern web applications with React and Next.js
+- 📱 Developing responsive e-commerce platforms
+- 🎨 Creating pixel-perfect UI components with Tailwind CSS
+- 📚 Learning advanced TypeScript patterns and performance optimization
 
 ---
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 🐍 GitHub Snake 🐍
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nurbekprog&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbekprog&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff" />
+![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-<img src="https://streak-stats.demolab.com?user=Nurbekprog&hide_border=true&background=0d1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" />
-
-## 🐍 GitHub Snake
-
-![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+</div>
 
 ---
 
-## 🌐 Connect
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/nurdev.uz-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://nurdev.uz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nurbek-yuldashev)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nnurdev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurbekdeveloper@gmail.com)
+## 📬 Get In Touch
 
-<br/>
+**Email:** [nurbekdeveloper@gmail.com](mailto:nurbekdeveloper@gmail.com)  
+**Telegram:** [@nnurdev](https://t.me/nnurdev)  
+**LinkedIn:** [nurbek-yuldashev](https://www.linkedin.com/in/nurbek-yuldashev/)
 
-```
-// if you reached this line — let's build something cool together 🦇
-```
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nurbekprog&color=00FF88&style=flat-square&label=profile+views)
+*Thanks for visiting my profile! Feel free to reach out for collaboration* ✨
 
 </div>
