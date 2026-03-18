@@ -1,137 +1,198 @@
 <div align="center">
 
-<!-- Animated banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:00D9FF&height=200&section=header&text=Nurbek%20Yuldashev&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descSize=20&descAlignY=58&descColor=00D9FF&animation=fadeIn" />
-
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+fast+%26+beautiful+web+apps+%F0%9F%9A%80;React+%26+Next.js+Specialist+%E2%9A%A1;Pixel-perfect+UI+%2F+UX+%F0%9F%8E%A8;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
-
-<!-- Profile views & social badges -->
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=nurbekdeveloper&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/nurbekdeveloper)
-[![Telegram](https://img.shields.io/badge/Telegram-@nnurdev-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nnurdev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nurbek_Yuldashev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurbek-yuldashev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nurdev.vercel.app-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](https://nurdev.vercel.app)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nurbek%20Yuldashev&fontSize=60&fontColor=fff&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%94%20Turning%20ideas%20into%20fast%2C%20beautiful%20web%20experiences&descSize=16&descColor=00D9FF&descAlignY=60&animation=twinkling" />
 
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=%F0%9F%9A%80+React+%26+Next.js+Specialist;%E2%9A%A1+Building+Scalable+Web+Applications;%F0%9F%8E%A8+Pixel-perfect+UI+%2F+UX+Craftsman;%F0%9F%93%A6+E-commerce+%7C+CRM+%7C+Admin+Systems;%F0%9F%87%BA%F0%9F%87%BF+Based+in+Uzbekistan" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_nurdev.vercel.app-000000?style=for-the-badge&logoColor=00D9FF)](https://nurdev.vercel.app)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurbekdeveloper@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nnurdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurbek-yuldashev/)
+[![Profile Views](https://komarev.com/ghpvc/?username=nurbekdeveloper&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)](https://github.com/nurbekdeveloper)
+
+</div>
+
+<br/>
+
 ---
 
-## 👨‍💻 About Me
+## ⚡ `whoami`
 
-```ts
-const nurbek = {
-  role      : "Frontend Developer",
-  location  : "Uzbekistan 🇺🇿",
-  focus     : ["React", "Next.js", "TypeScript"],
-  building  : ["Landing pages", "E-commerce", "Admin panels", "CRM systems"],
-  learning  : ["Advanced TypeScript patterns", "Performance optimization"],
-  available : true,  // open for freelance & collaboration
-  contact   : "nurbekdeveloper@gmail.com",
+```typescript
+const nurbek: Developer = {
+  name        : "Nurbek Yuldashev",
+  title       : "Frontend Developer",
+  location    : "Uzbekistan 🇺🇿",
+  portfolio   : "https://nurdev.vercel.app",
+
+  expertise   : [
+    "Single Page Applications (SPA)",
+    "Server-Side Rendering (SSR / SSG)",
+    "E-Commerce Platforms",
+    "Admin Panels & CRM Systems",
+    "Business Landing Pages",
+    "Responsive & Mobile-First UI",
+  ],
+
+  currentlyLearning : [
+    "Advanced TypeScript patterns",
+    "Web Performance & Core Web Vitals",
+    "CI/CD & DevOps basics",
+  ],
+
+  funFact     : "I write cleaner code than my commit messages suggest 😅",
+  available   : true, // → open for freelance & full-time roles
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Full Tech Stack
 
 <div align="center">
 
-**Languages & Core**
+### 🌐 Core Languages
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,c&theme=dark" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+---
 
-**Frontend**
+### ⚛️ Frontend Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux&theme=dark" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+---
 
-**Tools & Platforms**
+### 🎨 Styling & Design
+<img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui,figma&theme=dark" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
+
+### 🔧 Build Tools & Runtime
+<img src="https://skillicons.dev/icons?i=vite,webpack,nodejs,npm&theme=dark" />
+
+---
+
+### 🗄️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase&theme=dark" />
+
+---
+
+### 🗃️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" />
+
+---
+
+### 🔀 Version Control & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,netlify&theme=dark" />
+
+---
+
+### 🧪 Testing & Code Quality
+<img src="https://skillicons.dev/icons?i=jest,vitest,eslint&theme=dark" />
+
+---
+
+### 🧰 Dev Tools
+<img src="https://skillicons.dev/icons?i=vscode,postman,notion,discord&theme=dark" />
 
 </div>
 
 ---
 
-## 🔥 What I Build
+## 🏗️ What I Build
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/-Landing_Pages-00D9FF?style=flat-square" /><br/>
-  Fast, animated, conversion-focused pages
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/-E--Commerce-FF6B6B?style=flat-square" /><br/>
-  Full-featured online stores & payment integrations
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/-Admin_Panels-7C3AED?style=flat-square" /><br/>
-  Dashboards, data tables, charts & analytics
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/-CRM_Systems-10B981?style=flat-square" /><br/>
-  Client management & business automation tools
-</td>
-</tr>
-</table>
+
+| 🏷️ Type | 🛠️ Stack Used | 💡 Key Features |
+|:---|:---|:---|
+| **Landing Pages** | Next.js, Tailwind, Framer Motion | SEO optimized, animated, fast load |
+| **E-Commerce** | Next.js, Redux, Stripe, MongoDB | Cart, payments, product filters |
+| **Admin Panels** | React, Material UI, Chart.js, REST | Tables, charts, auth, CRUD |
+| **CRM Systems** | React, TypeScript, Redux Toolkit | Client tracking, dashboards |
+| **Portfolio Sites** | Next.js, GSAP, SASS | Animations, responsive, custom design |
+| **Business Apps** | React, Supabase, Tailwind | Real-time data, role-based access |
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nurbekdeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurbekdeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=nurbekdeveloper&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurbekdeveloper&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nurbekdeveloper&theme=black-ice&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nurbekdeveloper&theme=black-ice&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8b949e&stroke=00D9FF" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nurbekdeveloper&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&area_color=00D9FF&hide_border=true&radius=8" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nurbekdeveloper&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
+
 </div>
 
 ---
 
-## 📬 Let's Connect
+## 💬 Random Dev Quote
 
 <div align="center">
 
-| Platform | Link |
-|:---:|:---|
-| 🌐 Portfolio | [nurdev.vercel.app](https://nurdev.vercel.app) |
-| 📧 Email | [nurbekdeveloper@gmail.com](mailto:nurbekdeveloper@gmail.com) |
-| 💬 Telegram | [@nnurdev](https://t.me/nnurdev) |
-| 💼 LinkedIn | [nurbek-yuldashev](https://www.linkedin.com/in/nurbek-yuldashev/) |
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+## 📬 Let's Build Something Together
+
+<div align="center">
+
+> *"Good code is its own best documentation."* — Steve McConnell
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0A3D62,100:0D1117&height=120&section=footer&animation=fadeIn" />
+**I'm available for freelance projects, collaborations, and full-time opportunities.**
+
+<br/>
+
+[![Send Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurbekdeveloper@gmail.com)
+[![Message on Telegram](https://img.shields.io/badge/Message%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nnurdev)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurbek-yuldashev/)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://nurdev.vercel.app)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=24&fontColor=00D9FF&fontAlignY=65&animation=twinkling" />
 
 </div>
