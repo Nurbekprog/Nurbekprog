@@ -16,7 +16,7 @@ To learn more about me, visit this page [https://nurdev.vercel.app](#) !
 
 <img src="https://skillicons.dev/icons?i=nodejs,js,ts,react,nextjs,redux,cpp,c" alt="skills" />
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,materialui,figma,git,github,linux" alt="skills" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,materialui,gsap,animejs,figma,git,github,linux" alt="skills" />
 <br/>
 <img src="https://skillicons.dev/icons?i=vite" alt="skills" />
 
